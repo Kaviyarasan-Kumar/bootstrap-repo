@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    width: 100vw;
+}
+.main_img{
+    height:250px;
+    width: 100vw;
+    object-fit: cover;
+}
+.sectionOne{
+    height: 180px;
+    
+}
+.sectionTwo{
+    height: 180px;
+
+}
+.card-img-top{
+    height: 80px;
+    width: 80px;
+
+}

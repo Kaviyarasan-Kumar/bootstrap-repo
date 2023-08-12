@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url('https://npr.brightspotcdn.com/dims4/default/af1e869/2147483647/strip/true/crop/5760x3840+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fd8%2F6296982140aaa4e6f4e7d8ea90b8%2Fshutterstock-1894730254.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.img-fluid{
+    height: 50vh;
+    width: 5vw;
+    position: relative;
+    top: 7px;
+    left: 80px;
+    object-fit:cover;
+}

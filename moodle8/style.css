@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+.main-div{
+    background-image: url( https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    overflow: hidden;
+}
+.card{
+    background-color:#ffffff;
+}
+.head{
+    color:#323f4b;
+    font-family: 'Bree Serif', serif;
+}
+.para{
+    color:#7b8794;
+}
+.btn{
+    background-color: #323f4b;
+    color: #ffffff ;
+    border: white;
+}

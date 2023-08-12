@@ -1,0 +1,22 @@
+body{
+background-color: #e6f6ff;
+}
+.child-div1{
+    background-color: #fb4e71;
+}
+.light{
+    color: white;
+}
+.head1{
+    color: white;
+}
+h3{
+    color: #323f4b;
+}
+button{
+    color: #e6f6ff;
+    border-radius: 5px;
+    width:120px;
+    height:40px;
+    border: none;
+}
